@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+sklearn
+librosa
+pyqt5
+scipy
+tqdm
+pydub
